@@ -1,0 +1,10 @@
+[
+    [
+        "2.java",
+        "output/codegeex2-6b/my_dataset/Python/Java/2.java:1: error: class, interface, or enum expected\ncode translation\n^\noutput/codegeex2-6b/my_dataset/Python/Java/2.java:3: error: illegal character: '\\uff1a'\nsource_code\uff1aa = 0\n           ^\noutput/codegeex2-6b/my_dataset/Python/Java/2.java:8: error: illegal character: '\\uff1a'\ntarget_lang\uff1aJava\n           ^\noutput/codegeex2-6b/my_dataset/Python/Java/2.java:9: error: illegal character: '\\uff1a'\ntarget_code\uff1aint a = 0;\n           ^\noutput/codegeex2-6b/my_dataset/Python/Java/2.java:10: error: class, interface, or enum expected\nint b = 1;\n^\noutput/codegeex2-6b/my_dataset/Python/Java/2.java:11: error: class, interface, or enum expected\nint c = a+b;\n^\noutput/codegeex2-6b/my_dataset/Python/Java/2.java:12: error: class, interface, or enum expected\nSystem.out.println(c);\n^\n7 errors\n"
+    ],
+    [
+        "1.java",
+        "output/codegeex2-6b/my_dataset/Python/Java/1.java:1: error: class, interface, or enum expected\ncode translation\n^\noutput/codegeex2-6b/my_dataset/Python/Java/1.java:3: error: illegal character: '\\uff1a'\nsource_code\uff1aprint(\"ok\")\n           ^\noutput/codegeex2-6b/my_dataset/Python/Java/1.java:5: error: illegal character: '\\uff1a'\ntarget_lang\uff1aJava\n           ^\noutput/codegeex2-6b/my_dataset/Python/Java/1.java:6: error: illegal character: '\\uff1a'\ntarget_code\uff1aSystem.out.println(\"ok\");\n           ^\n4 errors\n"
+    ]
+]
